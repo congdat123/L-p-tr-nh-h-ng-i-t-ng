@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FeLeDZc7+H8eN7L6aZPQ82mYPGPQQDUC9n/rroh5It9ELMNukSA/w5+b2SsTowK+vz84Ez8zpdX1paPFgQxbDA==",
+  "dgSpecHash": "EDM/PDU7XZN8zp8lCvoUKLRe4MZ9eqqNbGMf6JMfPXHh+DLAuPxDxd3Jvcr0QLIiHtTuV+dY401RgCdPW1p1/g==",
   "success": true,
-  "projectFilePath": "D:\\Môn LTW\\Apifood\\Apifood\\Apifood\\Apifood.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Lap-trinh-huong-doi-tuong-nhom-7-\\ApiAplication\\Apifood\\Apifood\\Apifood.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\bcrypt.net-next\\4.0.2\\bcrypt.net-next.4.0.2.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

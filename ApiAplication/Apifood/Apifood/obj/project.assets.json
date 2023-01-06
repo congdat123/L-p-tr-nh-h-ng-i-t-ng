@@ -7383,11 +7383,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Môn LTW\\Apifood\\Apifood\\Apifood\\Apifood.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Lap-trinh-huong-doi-tuong-nhom-7-\\ApiAplication\\Apifood\\Apifood\\Apifood.csproj",
       "projectName": "Apifood",
-      "projectPath": "D:\\Môn LTW\\Apifood\\Apifood\\Apifood\\Apifood.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Lap-trinh-huong-doi-tuong-nhom-7-\\ApiAplication\\Apifood\\Apifood\\Apifood.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Môn LTW\\Apifood\\Apifood\\Apifood\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\Lap-trinh-huong-doi-tuong-nhom-7-\\ApiAplication\\Apifood\\Apifood\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
